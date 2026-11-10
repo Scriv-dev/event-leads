@@ -26,3 +26,11 @@ A list of 30 UK event companies, AV hire firms and production companies, in [`le
 ## Use
 
 These are business contacts for B2B outreach. Follow UK GDPR / PECR rules: include a clear opt-out in emails and honour removal requests.
+
+## Sheffield shortlist
+
+[`sheffield_leads.csv`](sheffield_leads.csv) has 10 event, AV and production companies based in Sheffield, in rough order of size. It has the same columns plus `rank` and `size_signal`.
+
+- **"Biggest" is an estimate.** These are mostly small private firms that file micro-company accounts, so turnover and headcount aren't public. The ranking uses what could be found: directory staff estimates, years trading, public-sector contracts, multi-city offices and client lists.
+- **No general contact email could be confirmed for any Sheffield firm.** Where available, the row gives a phone number, website or contact/quote page instead.
+- Bigger regional firms within about 40 miles are already in `leads.csv`: AYRE (Leeds) and Universal Live (Bradford).
