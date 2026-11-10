@@ -34,3 +34,12 @@ These are business contacts for B2B outreach. Follow UK GDPR / PECR rules: inclu
 - **"Biggest" is an estimate.** These are mostly small private firms that file micro-company accounts, so turnover and headcount aren't public. The ranking uses what could be found: directory staff estimates, years trading, public-sector contracts, multi-city offices and client lists.
 - **No general contact email could be confirmed for any Sheffield firm.** Where available, the row gives a phone number, website or contact/quote page instead.
 - Bigger regional firms within about 40 miles are already in `leads.csv`: AYRE (Leeds) and Universal Live (Bradford).
+
+## Maltby (Rotherham) shortlist
+
+[`maltby_leads.csv`](maltby_leads.csv) lists event, AV and production companies within about 5 miles of Maltby, plus a few just outside that radius. Distances are approximate straight-line estimates.
+
+- Only **Staging Events Ltd** (Maltby) is confirmed inside 5 miles. Two Rotherham hire firms probably are too, but their exact addresses aren't published.
+- Three companies 6–9 miles away are included and marked `within_5_miles = No`.
+- Several sites that showed up in searches for "AV hire Maltby" are template SEO pages with no real local base. They were left out.
+- No general contact email could be confirmed for any of these firms.
